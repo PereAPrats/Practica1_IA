@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/ppratsv03/UIB/3r/IA/practica/")
+sys.path.append("/app")
 
 from practica import agent, joc
 
